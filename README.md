@@ -33,10 +33,7 @@
 🎯 **Objectif** : Monter en compétence sur la sécurisation des chaînes de déploiement et des infrastructures Cloud.
 
 #### 🏠 [Projet en cours : Raspberry Pi Homelab DevSecOps](https://github.com/KarimHaddadi20/raspi-homelab-iac)
-*Application concrète des concepts DevSecOps.*
-- **Infrastructure** : Provisioning automatisé via Ansible (IaC).
-- **Sécurité** : Hardening système, Firewalling UFW, Fail2Ban.
-- **Audit** : Scan de vulnérabilités automatisé avec Lynis.
+*Application concrète des concepts DevSecOps et Infrastructure as Code.*
 
 ---
 
