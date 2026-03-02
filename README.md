@@ -38,8 +38,9 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimHaddadi20&show_icons=true&theme=tokyonight&hide=stars)
-
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin/)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KarimHaddadi20&show_icons=true&theme=tokyonight&hide_border=true" alt="Karim's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimHaddadi20&theme=tokyonight&hide_border=true" alt="Karim's GitHub streak" />
+</p>
