@@ -37,8 +37,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/KarimHaddadi20?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Europe%2FParis" alt="Metrics" width="100%">
-</div>
