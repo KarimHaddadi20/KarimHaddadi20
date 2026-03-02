@@ -1,7 +1,7 @@
 # Hi there, I'm Karim 👋
 
 ### 🎓 Master Student in DevOps, Cloud & Infrastructure
-*En route vers une approche DevSecOps complète.*
+**Étudiant passionné par l'automatisation, la sécurité (DevSecOps) et l'Infrastructure as Code. Je construis des systèmes résilients et sécurisés dès la conception.**
 
 ---
 
