@@ -1,11 +1,11 @@
-# Hi there, I'm Karim 👋
+# Hi there, I'm Karim
 
-### 🎓 Master Student in DevOps, Cloud & Infrastructure
+### Master Student in DevOps, Cloud & Infrastructure
 **Étudiant passionné par l'automatisation, la sécurité (DevSecOps) et l'Infrastructure as Code. Je construis des systèmes résilients et sécurisés dès la conception.**
 
 ---
 
-### 🚀 Currently Learning & Using
+### Currently Learning & Using
 
 **Infrastructure as Code (IaC)**
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -27,12 +27,12 @@
 
 ---
 
-### 🔭 My Journey
+###  My Journey
 
-🌱 **Démarche** : J'adopte une méthodologie **DevSecOps** dès la conception. La sécurité n'est pas une étape finale, mais une brique fondamentale (Security by Design).
-🎯 **Objectif** : Monter en compétence sur la sécurisation des chaînes de déploiement et des infrastructures Cloud.
+ **Démarche** : J'adopte une méthodologie **DevSecOps** dès la conception. La sécurité n'est pas une étape finale, mais une brique fondamentale (Security by Design).
+ **Objectif** : Monter en compétence sur la sécurisation des chaînes de déploiement et des infrastructures Cloud.
 
-#### 🏠 [Projet en cours : Raspberry Pi Homelab DevSecOps](https://github.com/KarimHaddadi20/raspi-homelab-iac)
+#### [Projet en cours : Raspberry Pi Homelab DevSecOps](https://github.com/KarimHaddadi20/raspi-homelab-iac)
 *Application concrète des concepts DevSecOps et Infrastructure as Code.*
 
 ---
