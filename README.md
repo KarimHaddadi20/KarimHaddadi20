@@ -32,7 +32,7 @@
  **Démarche** : J'adopte une méthodologie **DevSecOps** dès la conception. La sécurité n'est pas une étape finale, mais une brique fondamentale (Security by Design).
  **Objectif** : Monter en compétence sur la sécurisation des chaînes de déploiement et des infrastructures Cloud.
 
-#### [Projet en cours : Raspberry Pi Homelab DevSecOps](https://github.com/KarimHaddadi20/raspi-homelab-iac)
+#### [Projet en cours : Homelab DevSecOps](https://github.com/KarimHaddadi20/raspi-homelab-iac)
 *Application concrète des concepts DevSecOps et Infrastructure as Code.*
 
 ---
